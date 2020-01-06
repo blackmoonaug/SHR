@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~admin-lte/plugins/select2/css/select2.min.css';
+@import '~tempusdominus-bootstrap-4/build/css/tempusdominus-bootstrap-4.min.css';
+@import 'loading-btn.css';
+@import 'loading-btn.css';
+
+//=======================
+.router-link-exact-active {
+    background: #003366;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #003366, #4bcffa);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #003366, #4bcffa);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ffffff !important;
+}

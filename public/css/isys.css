@@ -1,0 +1,27 @@
+.nav-bg {
+    background: #0575E6;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #021B79, #0575E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white !important;
+}
+
+.navi {
+    background-image: linear-gradient(to right, #003366, #4bcffa) !important;
+}
+
+.panel-bg {
+    background: white;
+    border-bottom: 3px solid #021B79;
+    color: black;
+}
+
+.bg-primary {
+    background: #021B79 !important;
+}
+
+body {
+    background: white !important;
+}
